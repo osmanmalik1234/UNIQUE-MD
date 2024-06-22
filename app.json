@@ -19,8 +19,8 @@
        },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
        },
     "statusview": {
       "description": "make it true if you want bot to view status",
